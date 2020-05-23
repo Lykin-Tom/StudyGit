@@ -1,3 +1,7 @@
 Created a new branch named dev
 
+<<<<<<< HEAD
 modified this file on branch master
+=======
+modified this file on branch feature1
+>>>>>>> featurel
