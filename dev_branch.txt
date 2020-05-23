@@ -6,4 +6,13 @@ so I need to use "stash"
 
 version 1
 
-version 2
+<<<<<<< Updated upstream
+
+<<<<<<< Updated upstream
+
+=======
+
+>>>>>>> Stashed changes
+=======
+
+>>>>>>> Stashed changes
