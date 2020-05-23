@@ -1,0 +1,18 @@
+I need one day to finish my job
+
+but I have to fix a bug first
+
+so I need to use "stash"
+
+version 1
+
+<<<<<<< Updated upstream
+
+<<<<<<< Updated upstream
+
+=======
+
+>>>>>>> Stashed changes
+=======
+
+>>>>>>> Stashed changes
