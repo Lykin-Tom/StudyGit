@@ -1,1 +1,5 @@
 Created a new branch named dev
+
+branch 'dev' has been deleted
+
+the branch now named feature1
